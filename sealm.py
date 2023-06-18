@@ -1,6 +1,6 @@
 import pyautogui as pg
 import numpy as np
-import cv2, os, random
+import cv2, os, random, time
 import setting
 
 accurency = setting.accurency
@@ -46,3 +46,7 @@ def run():
     main_screen()
     emu_capture()
     main()
+    
+while True:
+    run()
+    time.sleep(1)
