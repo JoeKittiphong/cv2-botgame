@@ -22,3 +22,8 @@
     [0,0,200,400]
 ]` [0,0,600,400] ==> [x-start, y-start, x-end, y-end]
 - การหาตำแหน่งหน้าทำได้โดย กดปุ่ม window พิมพ์ `cmd` กด enter พิมพ์ `python mouse_position.py`
+- `accurency = 10` คือค่าความคลาดเคลื่อนจากตำแหน่งที่ bot หาเจอ ใส่ไว้เผื่อหาตำแหน่งเจอแต่กดไม่โดน
+
+***
+### run bot
+`python sealm.py`
