@@ -20,4 +20,5 @@
     [0,0,300,300],
     [0,0,400,400],
     [0,0,200,400]
-]` [0,0,600,400] ==> x-start, y-start, x-end, y-end
+]` [0,0,600,400] ==> [x-start, y-start, x-end, y-end]
+- การหาตำแหน่งหน้าทำได้โดย กดปุ่ม window พิมพ์ `cmd` กด enter พิมพ์ `python mouse_position.py`
