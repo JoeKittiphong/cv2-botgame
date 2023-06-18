@@ -11,3 +11,6 @@
 
 ### ลง library ต่างสหรับ python
   ``pip install opencv-python pyautogui``
+
+***
+### setting ตำแหน่งที่จะให้บอททำงาน
