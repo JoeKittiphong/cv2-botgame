@@ -10,4 +10,4 @@
 - สร้าง venv สำหรับ python
 
 ### ลง library ต่างสหรับ python
-  `pip install opencv-python pyautogui`
+  ``pip install opencv-python pyautogui``
